@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "DZLIFESTEALSMP.aternos.me",
-    "port": hawkfish.aternos.host:51511,
+    "port": 51511,
     "version": "",
     "try-creative": false
   },
