@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DZLIFESTEALSMP.aternos.me",
+    "port": hawkfish.aternos.host:51511,
     "version": "",
     "try-creative": false
   },
